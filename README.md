@@ -1,5 +1,12 @@
 # Motmaenbash-Android
 
+[![CI](https://github.com/mehrshud/motmaenbash-android/actions/workflows/ci.yml/badge.svg)](https://github.com/mehrshud/motmaenbash-android/actions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/language-Python-blue)]()
+[![Stars](https://img.shields.io/github/stars/mehrshud/motmaenbash-android?style=social)](https://github.com/mehrshud/motmaenbash-android)
+
+
+
 Motmaenbash is an Android application designed to protect users from phishing SMS, scam sites, and
 other malicious activities and potential threats, ensuring a safer and more secure mobile
 experience.
